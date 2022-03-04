@@ -15,17 +15,17 @@ const data=[
   {
     avatar:AVTR1,
     name:'Tina Show',
-    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi'
+    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir diziModi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir diziModi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi'
   },
   {
     avatar:AVTR1,
     name:'Nicola Tesla',
-    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi'
+    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi'
   },
   {
     avatar:AVTR2,
     name:'Selçuk Bayraktar',
-    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizi'
+    review:'Modi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir diModi alias anıma lorem aghıu bu sabahların bir anlamı olmal vera medecerfzir dizizi'
   },
 ]
 
