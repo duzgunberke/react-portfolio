@@ -1,12 +1,16 @@
 import React from "react";
 import "./Portfolio.css";
-import IMG from "../../assets/project.jpg";
-import IMG2 from "../../assets/project2.jpg";
+import IMG1 from "../../assets/project.jpg";
+import IMG2 from "../../assets/project1.jpg";
+import IMG3 from "../../assets/project2.jpg";
+import IMG4 from "../../assets/project3.jpg";
+import IMG5 from "../../assets/project4.jpg";
+import IMG6 from "../../assets/project5.jpg";
 
 const data=[
   {
     id:1,
-    image:IMG,
+    image:IMG1,
     title:'Project Title Example 1',
     github:'https://github.com',
     demo:'https://github.com'
@@ -20,28 +24,28 @@ const data=[
   },
   {
     id:3,
-    image:IMG,
+    image:IMG3,
     title:'Project Title Example 1',
     github:'https://github.com',
     demo:'https://github.com'
   },
   {
     id:4,
-    image:IMG2,
+    image:IMG4,
     title:'Project Title Example 1',
     github:'https://github.com',
     demo:'https://github.com'
   },
   {
     id:5,
-    image:IMG2,
+    image:IMG5,
     title:'Project Title Example 1',
     github:'https://github.com',
     demo:'https://github.com'
   },
   {
     id:6,
-    image:IMG,
+    image:IMG6,
     title:'Project Title Example 1',
     github:'https://github.com',
     demo:'https://github.com'

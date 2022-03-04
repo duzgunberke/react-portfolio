@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import ME from '../../assets/Avatar2.jpg';
+import ME from '../../assets/me2.jpg';
 import {FaAward} from 'react-icons/fa';
 import {FiUsers} from 'react-icons/fi';
 import {VscFolderActive} from 'react-icons/vsc';
