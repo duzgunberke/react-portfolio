@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Live Demo ==> https://duzgunberke.github.io/react-portfolio/
 
+EmailJS was used in the contact section.
+
 ## Available Scripts
 
 In the project directory, you can run:
